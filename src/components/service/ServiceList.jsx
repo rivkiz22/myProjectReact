@@ -14,7 +14,7 @@ const [stutus,  setStutus ]=useState(false)
   useEffect(() => {
     getServices()
     setStutus(loginStore.isLogin) 
-  }, [])
+  }, [serviseStore.services])
 
   
   return (

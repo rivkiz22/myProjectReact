@@ -9,7 +9,7 @@ import "../css/appointment-service.css"
 const AppointmentList = (observer(() => {
   useEffect(() => {
     getappointments()
-  }, [])
+  }, [appointmentStore])
   const getMeetingColor = (dateTime) => {
     const today = new Date();
     const meetingDate = new Date(dateTime);

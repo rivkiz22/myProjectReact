@@ -4,16 +4,17 @@
 
 }
 .grid-container {
-    width: 70vw;
+    width: 60vw;
     margin: auto;
     display: grid;
     gap: 0.5rem;
+    
 }
 .grid-container-2{
     background-color: rgb(255, 255, 255);
     border: 1px solid rgb(69, 199, 199);
+    border-radius: 0.5rem;
 }
-
 .grid-item {
     padding-top: 0.5vw;
     padding-left: 0.5vw;
