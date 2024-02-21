@@ -1,0 +1,23 @@
+
+.all-grid {
+    width: 100vw;
+
+}
+.grid-container {
+
+    display: grid;
+    gap: 0.5rem;
+}
+.grid-container-2{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(69, 199, 199);
+}
+
+.grid-item {
+    padding-top: 0.5vw;
+    padding-left: 0.5vw;
+    font-size: 1.5vw;
+}
+.false{
+    color: rgb(153, 164, 174);
+}
