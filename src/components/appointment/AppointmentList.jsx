@@ -5,7 +5,7 @@ import appointmentStore from "../../data/store/appointmentStore"
 import Appointment from "./Appointment"
 import "../css/appointment.css"
 import "../css/all.css"
-import "../css/appointment&service.css"
+import "../css/appointment-service.css"
 const AppointmentList = (observer(() => {
   useEffect(() => {
     getappointments()

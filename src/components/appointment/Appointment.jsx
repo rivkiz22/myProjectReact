@@ -2,7 +2,7 @@ import { observer } from "mobx-react"
 
 import "../css/appointment.css"
 import "../css/all.css"
-import "../css/appointment&service.css"
+import "../css/appointment-service.css"
 
 const Appointment=observer(({index,divColor})=> {
 const date=(newDate)=>{

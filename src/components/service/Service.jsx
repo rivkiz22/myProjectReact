@@ -1,7 +1,7 @@
 import { observer } from "mobx-react-lite";
 import serviseStore from "../../data/store/serviseStore";
 import "../css/service.css"
-import "../css/appointment&service.css"
+import "../css/appointment-service.css"
 const Service = (observer(({ index }) => {
   return (
     <>

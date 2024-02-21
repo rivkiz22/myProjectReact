@@ -5,7 +5,7 @@ import { getServices } from "../../data/Server/servise";
 import Service from "./Service";
 import "../css/service.css"
 import "../css/all.css"
-import "../css/appointment&service.css"
+import "../css/appointment-service.css"
 import AddService from "./AddService";
 import loginStore from "../../data/store/loginStore";
 import AddAppointment from "../appointment/addApointment/AddAppointment";

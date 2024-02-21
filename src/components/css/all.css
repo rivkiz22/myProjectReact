@@ -19,6 +19,3 @@ p {
 .btn:focus{
     outline: none;
 }
-.not-good{
-    border: 0px solid rgb(235, 45, 96);
-}

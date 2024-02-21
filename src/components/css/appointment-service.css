@@ -4,7 +4,8 @@
 
 }
 .grid-container {
-
+    width: 70vw;
+    margin: auto;
     display: grid;
     gap: 0.5rem;
 }
@@ -19,5 +20,5 @@
     font-size: 1.5vw;
 }
 .false{
-    color: rgb(153, 164, 174);
+    color: rgb(218, 221, 223);
 }
