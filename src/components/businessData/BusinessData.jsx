@@ -13,7 +13,7 @@ const[stutus,setStutus]=useState(false)
   useEffect(() => {
     getBusiness();
   setStutus(loginStore.isLogin) 
-  }, [])
+  }, [businessStore.business])
   return (
     <>
    <div className="container">
