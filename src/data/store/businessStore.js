@@ -8,7 +8,7 @@ class BusinessStore {
         name: "הנפש שלך",
         address: "הנרקיס 8",
         phone: "0556766682",
-        owner: "רבקה קלאר",
+        owner: "רבקה לנדאו",
         logo: a,
         description: "מטפלת רגשית",
     }
